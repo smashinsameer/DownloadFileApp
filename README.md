@@ -1,2 +1,2 @@
 # DownloadFileApp
-Angularjs code for download functionality
+Plug and Play Download File Functionality built on Angularjs
